@@ -2,10 +2,6 @@
 
 Десктопное приложение на C# для парсинга HTML-страниц и обхода сайтов (Web Crawling) с удобным графическим интерфейсом на базе **Windows Forms**.
 
-![C#](https://shields.io)
-![Platform](https://shields.io)
-![UI](https://shields.io)
-
 ---
 
 ## Возможности
